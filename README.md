@@ -61,15 +61,15 @@ Remove the ```--dry-run``` flag from the string and it will execute, dry run mod
 
 You can use the full name or an abbrievated version with just 1 "-" and the beginning letter of thw word
 
-```--dir, -d``` :folder containing the photos
+```--dir, -d``` :folder containing the photos, will always be in the string.
 
-```--name, -n``` :new name for pictures
+```--name, -n``` :new name for pictures, will always be in the string.
 
-```--start, -s``` :starting number; if the user wants to start at a sepcific number
+```--start, -s``` :starting number; if the user wants to start at a sepcific number, use at the very end of the string.
 
-```--dry, -d``` :test run to verify the names ahead of any changes
+```--dry, -d``` :test run to verify the names ahead of any changes, use at the very end of the string. 
 
-```--recursive, -r``` :include other photos within sub-folders/directories
+```--recursive, -r``` :include other photos within sub-folders/directories, use after the directory flag but before the newname flag in the string.
 
 ```--log``` :custom path for the recent changes CSV Log (default is rename_log.CSV)
 
