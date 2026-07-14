@@ -3,6 +3,12 @@
 Foto Flasher allows you to chronologically rename entire folders and directories of pictures within just a few seconds. This was designed for photographers who need to rename large sets of pictures all at once but don't want to manually rename every file. This tool is incredibly useful for photographers needing to upload pictures to Bring A Trailer, RM Sotheby's, or Mecum for example. I personally use this tool to upload my pictures to Bring A Trailer, who require chronological order, and found no programs that could solve my issue. If this program helps your projects personally or professionally make sure to leave a star :) it means alot
 
 
+
+https://github.com/user-attachments/assets/702bd161-b949-4326-9ac5-bc43220be70e
+
+
+
+
 ## Setup & Installation:
 
 open a new session in your preferred terminal and run:
