@@ -55,11 +55,11 @@ PLEASE NOTE: depending where you save the Foto Flasher program, it will change t
 
 The ``` --name "testingforgithub.jpg" --dry-run``` is the new name for the pictures. There is no need to add numbers or start it with "0" because the program automatically reorders everything in chronological order but if you need to start at a specific number, just add ```--start``` or ```-s``` at the end of your string. 
 
-Remove the ```--dry-run``` flag from the string and it will execute, dry run mode is to double check changes ahead of time. A full file of all the changes are saved within Foto Finder for the user to have in case there is any error with 1 specific photo.
+Remove the ```--dry-run``` flag from the string and it will execute, dry run mode is used to double check changes ahead of time without implementing them. A stadalone CSV document titled "rename_log.csv" with of all the changes are saved within Foto Finder for the user to have in case there is any error with 1 specific photo. You can use this document as reference for every change made.
 
 ## Flags
 
-You can use the full name or an abbrievated version with just 1 "-" and the beginning letter of thw word
+You can use the full name or an abbrievated version with just "-" and the beginning letter of the word. 
 
 ```--dir, -d``` :folder containing the photos, will always be in the string.
 
