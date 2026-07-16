@@ -1,3 +1,4 @@
+/// an open source project created by Owen Edwards | ACS 'a creative solution' for everyone to use and enjoy :) 
 use clap::Parser;
 use std::collections::HashSet;
 use std::fs::{self, File};
